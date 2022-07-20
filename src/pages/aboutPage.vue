@@ -1,3 +1,3 @@
 <template>
-  <p>about pahe</p>
+  <p>about pahe1</p>
 </template>
